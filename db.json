@@ -3,24 +3,24 @@
      "id": 1,
      "username": "Abubakar",
      "email": "abubakar@example.com",
-     "password" : "12345678",
+     "password" : "12345678"
   },
   {
      "id": 2,
      "username": "Umer",
      "email": "umer@example.com",
-     "password" : "12345678",
+     "password" : "12345678"
   },
   {
      "id": 3,
      "username": "Usman",
      "email": "usman@example.com",
-     "password" : "12345678",
+     "password" : "12345678"
   },
   {
      "id": 4,
      "username": "Ali",
      "email": "ali@example.com",
-     "password" : "12345678",
-  },
+     "password" : "12345678"
+  }
 ]
